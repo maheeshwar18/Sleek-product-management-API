@@ -6,7 +6,7 @@ st.set_page_config(page_title="Sleek product Management API", layout="centered")
 st.title("🎓 Sleek product Management API")
 
 # Backend API Base URL Configuration
-API_URL = st.sidebar.text_input("Backend API Base URL", value="http://127.0.0.1:8000")
+API_URL = st.sidebar.text_input("Backend API Base URL", value="https://sleek-product-management-api.onrender.com")
 
 # Navigation Menu
 option = st.sidebar.selectbox(
