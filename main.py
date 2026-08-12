@@ -7,7 +7,7 @@ app = FastAPI(title="Sleek Product Management API")
 products_db = {
     1:{"name": "Suede Jacket","category": "Jackets", "price": 1299, "stock": 25},
     2:{"name": "Leather Boots","category": "Shoes", "price": 899, "stock": 15},
-    3:{"name": "Cotton T-Shirt","category": " Tops", "price": 399, "stock": 50},
+    3:{"name": "Cotton T-Shirt","category": "Tops", "price": 399, "stock": 50},
     4:{"name":"Tank Top","category":"Tops","price":300,"stock":100},
     5:{"name":"Pleated Trousers","category":"Bottoms","price":1199,"stock":35},
     6:{"name":"Jeans","category":"Bottoms","price":1399,"stock":50}
