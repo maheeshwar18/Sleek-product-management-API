@@ -3,7 +3,7 @@ import streamlit as st
 
 # Configure Page
 st.set_page_config(page_title="Sleek product Management API", layout="centered")
-st.title("Sleek product Management API")
+st.title("Sleek product Management API :shopping_cart:")
 
 # Backend API Base URL Configuration
 API_URL = st.sidebar.text_input("Backend API Base URL", value="https://sleek-product-management-api.onrender.com")
