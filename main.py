@@ -10,7 +10,10 @@ products_db = {
     3:{"name": "Cotton T-Shirt","category": "Tops", "price": 399, "stock": 50},
     4:{"name":"Tank Top","category":"Tops","price":300,"stock":100},
     5:{"name":"Pleated Trousers","category":"Bottoms","price":1199,"stock":35},
-    6:{"name":"Jeans","category":"Bottoms","price":1399,"stock":50}
+    6:{"name":"Jeans","category":"Bottoms","price":1399,"stock":50},
+    7:{"name":"sneakers","category":"Shoes","price":1299,"stock":40},
+    8:{"name":"Flannel Shirt","category":"Tops","price":999,"stock":45},
+    9:{"name":"Baggy Jeans","category":"Bottoms","price":1399,"stock":63}
 }
 
 
